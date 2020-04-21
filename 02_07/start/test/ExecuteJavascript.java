@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 public class ExecuteJavascript {
     public static void main(String[] args) throws InterruptedException {
 
-        System.setProperty("webdriver.chrome.driver", "/Users/haydenbdennis/Desktop/02_Dev_Projects/Drivers/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "/Users/haydenbdennis/Desktop/02_Dev_Projects/ChromeDrivers/chromedriver");
 
         WebDriver driver = new ChromeDriver();
 

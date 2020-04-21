@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17935359-ffbc-43b1-bd2e-f1c2feae8d38" name="Default" comment="" />
+    <list default="true" id="17935359-ffbc-43b1-bd2e-f1c2feae8d38" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../02_08/start/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ExecuteJavascript.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/ExecuteJavascript.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_08/start/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_08/start/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_08/start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_08/start/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_08/start/DragAndDrop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_08/start/DragAndDrop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_08/start/target/test-classes/DragAndDrop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_08/start/target/test-classes/DragAndDrop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02_08/start/test/DragAndDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02_08/start/test/DragAndDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../04_03/start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_03/start/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/test/ExecuteJavascript.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,6 +55,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -68,21 +80,23 @@
     <option name="width" value="1360" />
     <option name="height" value="741" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -174,24 +188,24 @@
       <option name="presentableId" value="Default" />
       <updated>1519596408655</updated>
       <workItem from="1587404636768" duration="629000" />
+      <workItem from="1587494626878" duration="270000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="629000" />
+    <option name="totallyTimeSpent" value="899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2039072" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20634921" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
@@ -201,11 +215,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3298611" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -214,6 +227,9 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="SciView" order="9" />
+      <window_info anchor="right" id="Database" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +239,7 @@
     <entry file="file://$PROJECT_DIR$/test/ExecuteJavascript.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -266,6 +282,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Pipenv (Welcome) interpreter library</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -277,7 +294,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>13</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -294,6 +311,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
